@@ -42,7 +42,7 @@ verbose = True,
 llm = llm,
 max_iter = 5,
 memory = True,
-tools = [],
+tools = [yft],
 allow_delegation = False
 
 )
